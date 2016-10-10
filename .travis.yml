@@ -11,6 +11,6 @@ before_script:
 
 script: 
    - cd calculadora
-   - lettuce
+   - lettuce tests/
 
 email:false
